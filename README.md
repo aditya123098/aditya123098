@@ -151,23 +151,9 @@ A conversational AI system that answers natural language questions from document
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityathakur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050810&title_color=00D4FF&icon_color=00FF94&text_color=e2e8f0"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityathakur&layout=compact&theme=tokyonight&hide_border=true&bg_color=050810&title_color=00D4FF&text_color=e2e8f0"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=adityathakur&theme=tokyonight&hide_border=true&background=050810&stroke=00D4FF&ring=00FF94&fire=FF6B35&currStreakLabel=00D4FF)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 🗺️ AI Learning Roadmap
 
@@ -210,25 +196,7 @@ I believe in:
 
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
-
-[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adityathakur&theme=tokyo-night&hide_border=true&bg_color=050810&color=00D4FF&line=00FF94&point=FF6B35)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=adityathakur&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📬 Let's Connect!
 
@@ -246,7 +214,7 @@ I believe in:
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=adityathakur&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=aditya123098&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
