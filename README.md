@@ -239,11 +239,11 @@ I believe in:
 
 | Platform | Link |
 |----------|------|
-| 📧 Email | [aditya.thakur@email.com](mailto:aditya.thakur@email.com) |
-| 💼 LinkedIn | [linkedin.com/in/adityathakur](https://linkedin.com/in/adityathakur) |
-| 🐙 GitHub | [github.com/adityathakur](https://github.com/adityathakur) |
-| 🤗 HuggingFace | [huggingface.co/adityathakur](https://huggingface.co/adityathakur) |
-| 🐦 Twitter | [@adityathakur_ai](https://twitter.com/adityathakur_ai) |
+| 📧 Email | [adityathakur0123321@gmail.com](mailto:adityathakur0123321@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/aditya-thakur-735110258/](https://www.linkedin.com/in/aditya-thakur-735110258/) |
+| 🐙 GitHub | [github.com/aditya123098](https://github.com/aditya123098) |
+| 
+| 🐦 Twitter | [@adityathakur_ai](https://x.com/AdityaThak40393) |
 
 <br/>
 
