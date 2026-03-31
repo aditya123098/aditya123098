@@ -121,7 +121,7 @@ An intelligent tool that reads any PDF and generates concise, accurate summaries
 **Tech Stack:**
 `Python` `LangChain` `PyPDF2` `FAISS` `OpenAI` `Streamlit`
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/adityathakur/pdf-summarizer)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/aditya123098/PdfTalker-chatbot)
 [![Demo](https://img.shields.io/badge/Live_Demo-00D4FF?style=flat-square&logo=streamlit)](https://pdf-summarizer-demo.streamlit.app)
 
 </td>
